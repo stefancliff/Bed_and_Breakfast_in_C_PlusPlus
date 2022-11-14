@@ -1,0 +1,2 @@
+BulevarOslobodjenja3 true 15 33.0 
+KnezMihailova145 false 15 55.0
